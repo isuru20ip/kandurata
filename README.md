@@ -74,10 +74,10 @@ The company's manual ordering process created real operational pain:
 
 <table>
 <tr>
-<td align="center"><img src="assets/screenshot-home.png" width="220"/><br/><sub><b>Home / Catalog</b></sub></td>
-<td align="center"><img src="assets/screenshot-categories.png" width="220"/><br/><sub><b>Categories</b></sub></td>
-<td align="center"><img src="assets/screenshot-product-detail.png" width="220"/><br/><sub><b>Product Detail & Variants</b></sub></td>
-<td align="center"><img src="assets/screenshot-cart.png" width="220"/><br/><sub><b>Cart & Bulk Pricing</b></sub></td>
+<td align="center"><img src="screenshot-home.png" width="220"/><br/><sub><b>Home / Catalog</b></sub></td>
+<td align="center"><img src="screenshot-categories.png" width="220"/><br/><sub><b>Categories</b></sub></td>
+<td align="center"><img src="screenshot-product-detail.png" width="220"/><br/><sub><b>Product Detail & Variants</b></sub></td>
+<td align="center"><img src="screenshot-cart.png" width="220"/><br/><sub><b>Cart & Bulk Pricing</b></sub></td>
 </tr>
 </table>
 
