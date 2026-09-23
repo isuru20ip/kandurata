@@ -141,7 +141,7 @@ Because the mobile app and the web dashboard both read and write the **same Fire
 
 ## 🗄️ Data Model (Firestore Schema)
 
-<img src="assets/er-diagram.png" width="850"/>
+<img src="er-diagram.png" width="850"/>
 
 | Collection | Purpose |
 |---|---|
@@ -157,10 +157,10 @@ Because the mobile app and the web dashboard both read and write the **same Fire
 ## 🔄 Core Flows
 
 ### Use Case Overview
-<img src="assets/use-case-diagram.png" width="700"/>
+<img src="use-case-diagram.png" width="700"/>
 
 ### Checkout, Bulk Pricing & Delivery Fee Logic
-<img src="assets/checkout-activity-diagram.png" width="600"/>
+<img src="checkout-activity-diagram.png" width="600"/>
 
 When a buyer checks out, the system:
 1. Checks the item quantity against that variant's **bulk threshold**
